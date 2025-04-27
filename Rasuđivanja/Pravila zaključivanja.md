@@ -1,3 +1,4 @@
+
 *Pravila zaključivanja* su pravila oblika
 $$
 \begin{prooftree}
