@@ -1,0 +1,7 @@
+### Agda ###
+*.agdai
+MAlonzo/**
+
+### Obsidian ###
+# config dir
+.obsidian/
