@@ -1,7 +1,7 @@
 
-*Izvođenje* [rasuđivanja](Rasuđivanja) je konačna kompozicija [pravila zaključivanja](Pravila%20zaključivanja.md), koja počinju [aksiomama](Pravila%20zaključivanja.md) i završavaju se traženim [rasuđivanjem](Rasuđivanja). [Rasuđivanje](Rasuđivanja) je *izvodljivo* ako postoji odgovarajuće izvođenje.
+*Izvođenje* [rasuđivanja](Rasuđivanja.md) je konačna kompozicija [pravila zaključivanja](Pravila%20zaključivanja.md), koja počinju [aksiomama](Pravila%20zaključivanja.md) i završavaju se traženim [rasuđivanjem](Rasuđivanja.md). [Rasuđivanje](Rasuđivanja.md) je *izvodljivo* ako postoji odgovarajuće izvođenje.
 
-Često predstavljamo izvođenje rasuđivanja kao stablo čiji su unutrašnji čvorovi [pravila zaključivanja](Pravila%20zaključivanja.md), listovi [aksiome](Pravila%20zaključivanja.md) i koren traženo [rasuđivanje](Rasuđivanja).
+Često predstavljamo izvođenje rasuđivanja kao stablo čiji su unutrašnji čvorovi [pravila zaključivanja](Pravila%20zaključivanja.md), listovi [aksiome](Pravila%20zaključivanja.md) i koren traženo [rasuđivanje](Rasuđivanja.md).
 
 Ako je 
 $$

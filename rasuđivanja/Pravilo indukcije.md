@@ -1,5 +1,5 @@
 
-*Induktivni princip* kaže da osobina $\mathcal{P}$ *poštuje* [pravilo](Pravila%20zaključivanja.md)
+*Pravilo induktivni* kaže da osobina $\mathcal{P}$ *poštuje* [pravilo](Pravila%20zaključivanja.md)
 $$
 \begin{prooftree}
 \AxiomC{$a_1\,\mathsf{J}$}

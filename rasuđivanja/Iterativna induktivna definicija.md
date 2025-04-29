@@ -1,5 +1,5 @@
 
-[Induktivna definicija](Induktivna%20definicija.md) je *iterativna* ako premise [pravila zaključivanja](Pravila%20zaključivanja.md) uključuju prethodno definisane [rasuđivačke forme](Rasuđivanja).
+[Induktivna definicija](Induktivna%20definicija.md) je *iterativna* ako premise [pravila zaključivanja](Pravila%20zaključivanja.md) uključuju prethodno definisane [rasuđivačke forme](Rasuđivanja.md).
 
 ## Primer
 

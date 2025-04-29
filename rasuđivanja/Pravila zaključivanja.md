@@ -23,8 +23,6 @@ Kako može nastati potreba za beskonačno mnogo pravila zaključivanja, beskona�
 
 [Rasuđivačka forma](Rasuđivanja.md) $J$ je *zatvorena* nad skupom pravila ako postoji način da se dobije pomoću tih pravila. 
 
-Dovoljno je 
-
 ## Primer
 
 Aksiom čiji zaključak tvrdi da je nula prirodan broj:
